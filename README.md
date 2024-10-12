@@ -18,10 +18,9 @@ The Credential Stealer Tool is a C# application designed for educational purpose
 - Visual Studio or any C# IDE
 - Appropriate permissions to access user profile directories and inject DLLs.
 
-## Installation
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/Subra101/Browser_password_Stealer.git
-   cd Browser_password_Stealer
-   cd Release
-   ./malware_password_stealer.exe
+$git clone https://github.com/Subra101/Browser_password_Stealer.git
+$cd Browser_password_Stealer
+$cd Release
+$./malware_password_stealer.exe
